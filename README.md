@@ -6,4 +6,4 @@ Here is an example image of the most simple main python script to run a discord 
 
 ![main.png](img/main.png)
 
-pip install -r requirements.txt
+`pip install -r requirements.txt` to install dependencies.
